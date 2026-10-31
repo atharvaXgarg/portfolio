@@ -1,0 +1,20 @@
+{
+  "name": "Atharva Garg | Developer Portfolio",
+  "short_name": "Atharva Garg",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "icons": [
+    {
+      "src": "/favicon-96x96.svg",
+      "sizes": "96x96",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/favicon-96x96.svg",
+      "sizes": "180x180",
+      "type": "image/svg+xml"
+    }
+  ]
+}
